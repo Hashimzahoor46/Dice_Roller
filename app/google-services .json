@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "564892044882",
+    "project_id": "dice-roller-a5e8f",
+    "storage_bucket": "dice-roller-a5e8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564892044882:android:a3e66aba8c4c3a2b11d98b",
+        "android_client_info": {
+          "package_name": "com.example.diceroller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564892044882-s48pb1b9rol0l7cd3gf48easdkf27vnl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM86pZzkJG_h3ZWXmhpRg5aetCGSErinM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564892044882-s48pb1b9rol0l7cd3gf48easdkf27vnl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
